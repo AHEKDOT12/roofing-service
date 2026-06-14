@@ -78,9 +78,3 @@ npm run lint
 The quote form does not send data to a server. Requests are stored only in the user's browser through `localStorage`.
 
 The current project version does not define any backend API endpoints. Environment variables from `.env.example` are kept for compatibility with the original AI Studio template.
-
-## AI Studio
-
-The original project was created in AI Studio:
-
-https://ai.studio/apps/7776e104-2771-45a0-a119-912aca716a9b
